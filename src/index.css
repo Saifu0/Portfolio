@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import '~antd/dist/antd.css';
 
 body {
   margin: 0;
-  font-family: 'Press Start 2P';
+  font-family: 'Ubuntu';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color : #9400FF;
   color : white;
 }
 

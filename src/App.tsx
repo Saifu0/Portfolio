@@ -1,11 +1,20 @@
 import React from 'react';
-import AnimateLogos from './animation/AnimateLogos';
+import Title from './components/Title';
+import Navbar from './components/Navbar';
+import Introduction from './components/Introduction';
+import Work from './components/Work';
+import Projects from './components/Projects';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Saifur Rehman Khan</h1>
-      <AnimateLogos/>
+    <div className="container">
+      <Title/>
+      <Navbar/>
+      <Introduction/> 
+      <Work/>
+      <Projects/>
+      <Footer/>
     </div>
   );
 }
