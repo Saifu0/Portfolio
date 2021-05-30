@@ -6,7 +6,7 @@ const Title = () => {
         <div className="title" style={{
             marginTop : 30
         }}>
-            <h1>Welcome to <span style={{color : "grey"}}>Saifur Rehman</span>'s blog</h1>
+            <h2>Welcome to <span style={{color : "grey"}}>Saifur Rehman</span>'s portfolio</h2>
         </div>
     )
 }
