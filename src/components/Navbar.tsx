@@ -19,6 +19,9 @@ function Navbar() {
                             <a className="nav-link active" aria-current="page" href="https://www.linkedin.com/in/saifur-rehman-khan-5770a9172/" target="blank">LinkedIn</a>
                         </li>
                         <li className="nav-item">
+                            <a className="nav-link active" aria-current="page" href="https://drive.google.com/file/d/1WluiRzwypEdx3n9Yd_zIm0K4RXjs3-ts/view?usp=sharing" target="blank">Resume</a>
+                        </li>
+                        <li className="nav-item">
                             <a className="nav-link active" aria-current="page" href="https://codeforces.com/profile/.Pain." target="blank">CodeForces</a>
                         </li>
                         <li className="nav-item">
